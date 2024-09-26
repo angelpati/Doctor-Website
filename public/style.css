@@ -1,0 +1,10 @@
+body{
+    background-image: url('https://img.freepik.com/free-photo/3d-rendering-business-meeting-working-room-office-building_105762-1972.jpg?w=2000');
+    background-size: cover;
+}
+.card{
+    margin-top:10cm;
+    margin-left:30cm;
+    margin-right:30cm;
+
+}
